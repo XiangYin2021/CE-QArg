@@ -1,6 +1,7 @@
 # Counterfactual-Argumentative-Explanations
 
-File: CFX_single_acyclic_QBAFs.ipynb\\
+File: CFX_single_acyclic_QBAFs.ipynb
+
 Input: An acyclic QBAF file (xxx.bag).
 Output: A potential base score vector that makes the final strength of the topic argument as the desired strength.
 
