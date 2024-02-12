@@ -1,5 +1,13 @@
 # Counterfactual-Argumentative-Explanations
 
+**File:** CFX_generate_QBAF_acyclic.ipynb  
+**Input:** N: the number of QBAFs; num_nodes: the number of nodes in each QBAF; p: the probability of generating an edge between any two nodes.
+**Output:** N acyclic QBAF files named acyclic_{i}.bag
+
+**File:** CFX_generate_QBAF_cyclic.ipynb  
+**Input:** N: the number of QBAFs; num_nodes: the number of nodes in each QBAF; p: the probability of generating an edge between any two nodes.
+**Output:** N cyclic QBAF files named cyclic_{i}.bag
+
 **File:** CFX_single_acyclic_QBAFs.ipynb  
 **Input:** An acyclic QBAF file (xxx.bag).  
 **Output:** A potential base score vector that makes the final strength of the topic argument as the desired strength.
