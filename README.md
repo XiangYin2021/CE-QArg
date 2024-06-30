@@ -23,3 +23,8 @@
 **File:** CFX_all_cyclic_QBAFs.ipynb  
 **Input:** A number of cyclic QBAF files (xxx.bag).  
 **Output:** The average/median metrics of the QBAFs, including validity, proximity, runtime.
+
+
+**File:** CFX_plot_resutls
+
+This file can plot the results in Figure 5 and 7.
