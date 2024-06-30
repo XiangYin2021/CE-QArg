@@ -25,6 +25,5 @@
 **Output:** The average/median metrics of the QBAFs, including validity, proximity, runtime.
 
 
-**File:** CFX_plot_resutls
-
+**File:** CFX_plot_resutl
 This file can plot the results in Figure 5 and 7.
