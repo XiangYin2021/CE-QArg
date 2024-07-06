@@ -1,4 +1,4 @@
-# Counterfactual-Argumentative-Explanations
+# Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks (QBAFs)
 
 **File:** CFX_generate_QBAF_acyclic.ipynb  
 **Input:** N: the number of QBAFs; num_nodes: the number of nodes in each QBAF; p: the probability of generating an edge between any two nodes.  
